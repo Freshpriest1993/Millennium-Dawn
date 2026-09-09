@@ -1,1 +1,2 @@
 I am learning Git on a practice branch.
+I can review changes before committing.
